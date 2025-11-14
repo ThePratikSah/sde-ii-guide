@@ -1,6 +1,6 @@
 ## Week 7 – Databases Part 2: MySQL, Transactions, N+1, ACID vs CAP
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 7 focuses on relational DBs (MySQL), transactions, N+1 issues, and connecting DB theory with practice. -->
 

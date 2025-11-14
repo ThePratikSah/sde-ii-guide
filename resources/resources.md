@@ -1,6 +1,6 @@
 ## Curated Resources – Backend SDE-II (Node.js / TypeScript)
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: List **high-signal resources** (videos, blogs, repos, books) mapped to the roadmap phases. Use this as a menu, not a checklist to finish entirely.
 

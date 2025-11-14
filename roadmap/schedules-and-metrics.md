@@ -1,6 +1,6 @@
 ## Daily & Weekly Schedules, Milestones, and Metrics
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: Give you **structured daily and weekly routines** (4-hour and 6-hour variants) plus **measurable success metrics**.
 

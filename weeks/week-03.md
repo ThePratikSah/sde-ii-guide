@@ -1,6 +1,6 @@
 ## Week 3 – Streams, Advanced Async, TS Refinement + DSA (Sliding Window)
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 3 finalizes JS/TS phase with streams and advanced async patterns, and introduces sliding window DSA. -->
 

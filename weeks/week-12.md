@@ -1,6 +1,6 @@
 ## Week 12 – Machine Coding I: Core Problems (Parking Lot, Splitwise, Cache, Rate Limiter)
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 12 starts intensive machine coding practice using problems from `machine-coding-bank.md`. -->
 

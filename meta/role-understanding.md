@@ -1,6 +1,6 @@
 ## SDE-II Backend Engineer – Role Understanding
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: Make it crystal clear what an SDE-II Backend Engineer is expected to do in interviews and in a real team so you can align your preparation and projects accordingly.
 

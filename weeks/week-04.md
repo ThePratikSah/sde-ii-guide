@@ -1,6 +1,6 @@
 ## Week 4 – Node.js Backend Basics: HTTP, Express/Fastify, Routing
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 4 starts Node.js backend phase: HTTP basics, Express/Fastify setup, routing, and structured APIs. -->
 

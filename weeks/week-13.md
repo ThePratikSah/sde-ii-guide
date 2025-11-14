@@ -1,6 +1,6 @@
 ## Week 13 – Machine Coding II: Advanced Problems & Production Readiness
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 13 continues machine coding with more problems and focus on tests, edge cases, and “production-ish” quality. -->
 

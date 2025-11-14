@@ -1,6 +1,6 @@
 ## DSA Plan for Backend Interviews
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: Give you a **focused DSA plan** that maximizes ROI for backend interviews (no unnecessary topics).
 

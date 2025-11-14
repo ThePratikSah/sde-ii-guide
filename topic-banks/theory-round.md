@@ -1,6 +1,6 @@
 ## Theory Round Preparation – OS, Networking, DBMS, CAP/ACID/BASE
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: Provide a **concise but deep** checklist of theory topics and **sample questions** tailored for backend SDE-II roles.
 

@@ -1,6 +1,6 @@
 ## Week 9 – System Design I: Scalable REST APIs & Service Boundaries
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 9 begins the system design phase: designing scalable REST APIs, defining service boundaries, and practicing structured design communication. -->
 

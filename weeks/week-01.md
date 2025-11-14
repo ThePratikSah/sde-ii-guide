@@ -1,6 +1,6 @@
 ## Week 1 – JavaScript & TypeScript Foundations + DSA (Arrays/Strings)
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 1 focuses on JS/TS fundamentals, event loop basics, and starting DSA practice. -->
 

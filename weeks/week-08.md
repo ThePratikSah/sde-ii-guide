@@ -1,6 +1,6 @@
 ## Week 8 – Redis, Caching, Rate Limiting, and Queues (Intro)
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 8 focuses on Redis fundamentals, caching strategies, basic rate limiting with Redis, and intro to queues. -->
 

@@ -1,6 +1,6 @@
 ## Machine Coding Problem Bank – SDE-II Backend (Node.js/TypeScript)
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: Provide at least **15 production-flavored machine coding problems** with clear requirements, constraints, sample I/O, expected design, and evaluation criteria.
 

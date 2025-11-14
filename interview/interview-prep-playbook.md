@@ -1,6 +1,6 @@
 ## Interview Preparation Playbook – SDE-II Backend
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: Give you a **repeatable process** for mock interviews, revision, and polishing your performance as an SDE-II backend candidate.
 

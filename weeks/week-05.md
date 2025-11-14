@@ -1,6 +1,6 @@
 ## Week 5 – Node.js Advanced: Auth, Middleware, Logging, Security Basics
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 5 deepens Node.js backend skills: auth, middleware patterns, logging, and security fundamentals. -->
 

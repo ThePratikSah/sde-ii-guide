@@ -1,6 +1,6 @@
 ## Backend Project Recommendations – SDE-II Level
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 > **Goal of this file**: Provide **5–8 production-level backend projects** with architecture sketches, feature lists, tech stack suggestions, and stretch goals.
 

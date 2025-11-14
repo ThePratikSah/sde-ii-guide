@@ -1,6 +1,6 @@
 ## Week 10 – System Design II: Uber/Swiggy & Notification System
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 10 focuses on designing larger systems (Uber/Swiggy-like) and a robust notification system, practicing trade-off discussions. -->
 

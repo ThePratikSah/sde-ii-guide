@@ -1,6 +1,6 @@
 ## Week 11 – System Design III: Rate Limiter, Auth Service, File Storage, Log Pipeline (HLD + LLD)
 
-[← Back to main guide](README.md)
+[← Back to main guide](../README.md)
 
 <!-- Week 11 finishes the system design phase with smaller but deep systems, emphasizing both HLD and LLD (class design, patterns). -->
 
