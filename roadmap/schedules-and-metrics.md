@@ -141,3 +141,4 @@ Use these as **baselines**; adjust based on your background and available time.
 This file should be used together with each `week-XX.md` to plan **exact tasks per day**.
 
 
+[← Back to main guide](../README.md) | [Next guide →](../weeks/week-01.md)

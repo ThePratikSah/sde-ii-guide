@@ -246,3 +246,4 @@ Call Stack  <---->  Event Loop  <---->  Task Queue (macrotasks)
     - Practice explaining the event loop and TS unions out loud as if to an interviewer.
 
 
+[← Back to main guide](../README.md) | [Next guide →](week-03.md)

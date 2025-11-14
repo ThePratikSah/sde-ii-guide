@@ -240,3 +240,4 @@ Controller -> Service -> Repository -> In-memory storage / DB (later)
       - Error handling.
 
 
+[← Back to main guide](../README.md) | [Next guide →](week-05.md)

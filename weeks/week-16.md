@@ -268,3 +268,4 @@ Use with:
   - [ ] Notes & cheat sheets for patterns, theory, and common interview questions.
 
 
+[← Back to main guide](../README.md)

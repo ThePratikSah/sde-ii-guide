@@ -284,3 +284,4 @@ Global Scope
   - **Extra 1–2 DSA problems (45 min)** focusing on patterns you struggled with.
 
 
+[← Back to main guide](../README.md) | [Next guide →](week-02.md)

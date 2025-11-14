@@ -197,3 +197,4 @@ Use this as a **target checklist** for your preparation.
 Use this file as a **north star**: every day of your preparation plan should move you closer to this SDE-II profile.
 
 
+[← Back to main guide](../README.md) | [Next guide →](skill-gap-template.md)

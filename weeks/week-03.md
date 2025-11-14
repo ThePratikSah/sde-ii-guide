@@ -229,3 +229,4 @@ Use with:
     - Another DSA problem, focusing on a different pattern (hash maps or two pointers).
 
 
+[← Back to main guide](../README.md) | [Next guide →](week-04.md)
