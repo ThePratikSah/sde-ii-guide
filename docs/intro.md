@@ -2,7 +2,6 @@
 id: intro
 title: SDE-II Backend Engineering Preparation Guide
 sidebar_position: 1
-slug: /
 ---
 
 This repository contains a **complete, day-wise preparation plan** to become a highly competent **SDE-II Backend Engineer (Node.js / TypeScript)**.  
