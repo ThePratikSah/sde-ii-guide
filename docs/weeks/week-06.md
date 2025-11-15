@@ -1,8 +1,9 @@
-## Week 6 – Databases Part 1: MongoDB Fundamentals + Schema Design
-
-
-
-<!-- Week 6 starts the database phase with MongoDB: CRUD, indexes, schema design, and integration with Node. -->
+---
+id: week-06
+title: Week 06 – Databases Part 1 - MongoDB Fundamentals + Schema Design
+sidebar_label: Week 06
+sidebar_position: 6
+---
 
 ### Weekly Goals
 

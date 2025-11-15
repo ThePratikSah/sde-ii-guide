@@ -2,13 +2,8 @@
 id: week-01
 title: Week 01 – JavaScript & TypeScript Foundations + DSA
 sidebar_label: Week 01
+sidebar_position: 1
 ---
-
-## Week 1 – JavaScript & TypeScript Foundations + DSA (Arrays/Strings)
-
-
-
-<!-- Week 1 focuses on JS/TS fundamentals, event loop basics, and starting DSA practice. -->
 
 ### Weekly Goals
 

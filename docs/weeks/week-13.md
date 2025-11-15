@@ -1,8 +1,9 @@
-## Week 13 – Machine Coding II: Advanced Problems & Production Readiness
-
-
-
-<!-- Week 13 continues machine coding with more problems and focus on tests, edge cases, and “production-ish” quality. -->
+---
+id: week-13
+title: Week 13 – Machine Coding II - Advanced Problems & Production Readiness
+sidebar_label: Week 13
+sidebar_position: 13
+---
 
 ### Weekly Goals
 

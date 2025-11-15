@@ -1,6 +1,8 @@
-## Theory Round Preparation – OS, Networking, DBMS, CAP/ACID/BASE
-
-
+---
+id: theory-round
+title: Theory Round Preparation
+sidebar_position: 3
+---
 
 > **Goal of this file**: Provide a **concise but deep** checklist of theory topics and **sample questions** tailored for backend SDE-II roles.
 

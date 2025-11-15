@@ -1,5 +1,9 @@
-## Week 4 – Node.js Backend Basics: HTTP, Express/Fastify, Routing
-
+---
+id: week-04
+title: Week 04 – Node.js Backend Basics - HTTP, Express/Fastify, Routing
+sidebar_label: Week 04
+sidebar_position: 4
+---
 
 
 <!-- Week 4 starts Node.js backend phase: HTTP basics, Express/Fastify setup, routing, and structured APIs. -->

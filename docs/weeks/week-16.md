@@ -1,8 +1,9 @@
-## Week 16 – Theory, Infra/AWS, Revision, and Interview Polishing
-
-
-
-<!-- Week 16 ties everything together: theory rounds, infra/AWS, revisiting weak spots, and structured interview prep. -->
+---
+id: week-16
+title: Week 16 – Theory, Infra/AWS, Revision, and Interview Polishing
+sidebar_label: Week 16
+sidebar_position: 16
+---
 
 ### Weekly Goals
 

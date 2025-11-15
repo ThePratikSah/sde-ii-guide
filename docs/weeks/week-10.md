@@ -1,8 +1,9 @@
-## Week 10 – System Design II: Uber/Swiggy & Notification System
-
-
-
-<!-- Week 10 focuses on designing larger systems (Uber/Swiggy-like) and a robust notification system, practicing trade-off discussions. -->
+---
+id: week-10
+title: Week 10 – System Design II - Uber/Swiggy & Notification System
+sidebar_label: Week 10
+sidebar_position: 10
+---
 
 ### Weekly Goals
 

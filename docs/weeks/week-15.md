@@ -1,8 +1,9 @@
-## Week 15 – DSA Focus II: Trees, Graphs, Heaps, Mixed Revision
-
-
-
-<!-- Week 15 completes DSA emphasis with trees, graphs, heaps, and mixed timed sets. -->
+---
+id: week-15
+title: Week 15 – DSA Focus II - Trees, Graphs, Heaps, Mixed Revision
+sidebar_label: Week 15
+sidebar_position: 15
+---
 
 ### Weekly Goals
 

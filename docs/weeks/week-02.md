@@ -1,8 +1,9 @@
-## Week 2 – Advanced JS/TS + Event Loop + DSA (Hash Maps/Two Pointers)
-
-
-
-<!-- Week 2 deepens JS/TS understanding and covers event loop internals, while continuing DSA. -->
+---
+id: week-02
+title: Week 02 – Advanced JS/TS + Event Loop + DSA (Hash Maps/Two Pointers)
+sidebar_label: Week 02
+sidebar_position: 2
+---
 
 ### Weekly Goals
 

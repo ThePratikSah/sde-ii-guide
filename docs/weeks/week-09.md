@@ -1,8 +1,9 @@
-## Week 9 – System Design I: Scalable REST APIs & Service Boundaries
-
-
-
-<!-- Week 9 begins the system design phase: designing scalable REST APIs, defining service boundaries, and practicing structured design communication. -->
+---
+id: week-09
+title: Week 09 – System Design I - Scalable REST APIs & Service Boundaries
+sidebar_label: Week 09
+sidebar_position: 9
+---
 
 ### Weekly Goals
 

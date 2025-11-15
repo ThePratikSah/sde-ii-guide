@@ -1,6 +1,8 @@
-## DSA Plan for Backend Interviews
-
-
+---
+id: dsa-backend-plan
+title: DSA Plan for Backend Interviews
+sidebar_position: 2
+---
 
 > **Goal of this file**: Give you a **focused DSA plan** that maximizes ROI for backend interviews (no unnecessary topics).
 

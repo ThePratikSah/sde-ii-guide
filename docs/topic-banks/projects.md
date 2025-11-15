@@ -1,6 +1,8 @@
-## Backend Project Recommendations – SDE-II Level
-
-
+---
+id: projects
+title: Backend Projects
+sidebar_position: 4
+---
 
 > **Goal of this file**: Provide **5–8 production-level backend projects** with architecture sketches, feature lists, tech stack suggestions, and stretch goals.
 

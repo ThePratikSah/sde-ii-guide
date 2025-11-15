@@ -1,8 +1,9 @@
-## Week 14 – DSA Focus I: Arrays, Strings, Hash Maps, Sliding Window
-
-
-
-<!-- Week 14 shifts focus to DSA for backend interviews, consolidating core patterns. -->
+---
+id: week-14
+title: Week 14 – DSA Focus I - Arrays, Strings, Hash Maps, Sliding Window
+sidebar_label: Week 14
+sidebar_position: 14
+---
 
 ### Weekly Goals
 

@@ -1,6 +1,8 @@
-## 16-Week Backend SDE-II Preparation Roadmap (Node.js / TypeScript)
-
-
+---
+id: roadmap-16-weeks
+title: 16-Week Backend SDE-II Preparation Roadmap (Node.js / TypeScript)
+sidebar_position: 1
+---
 
 > **Goal of this file**: Give you a **phase-wise roadmap** (8, 12, 16-week options) that coordinates JS/TS, Node.js, DBs, Redis/queues, system design, machine coding, DSA, and theory.
 

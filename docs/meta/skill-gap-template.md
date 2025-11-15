@@ -1,6 +1,8 @@
-## Skill Gap Analysis Template – SDE-II Backend (Node.js/TypeScript)
-
-
+---
+id: skill-gap-template
+title: Skill Gap Analysis Template – SDE-II Backend (Node.js/TypeScript)
+sidebar_position: 2
+---
 
 > **How to use**: Clone this file and fill it honestly before you start. Revisit it every 4 weeks to track progress.
 

@@ -1,6 +1,8 @@
-## Daily & Weekly Schedules, Milestones, and Metrics
-
-
+---
+id: schedules-and-metrics
+title: Daily & Weekly Schedules, Milestones, and Metrics
+sidebar_position: 2
+---
 
 > **Goal of this file**: Give you **structured daily and weekly routines** (4-hour and 6-hour variants) plus **measurable success metrics**.
 
