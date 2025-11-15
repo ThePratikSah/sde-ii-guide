@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ThePratikSah/sde-ii-guide/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ThePratikSah/sde-ii-guide/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -140,7 +140,7 @@ const config: Config = {
         //     },
         //     {
         //       label: 'GitHub',
-        //       href: 'https://github.com/facebook/docusaurus',
+        //       href: 'https://github.com/ThePratikSah/docusaurus',
         //     },
         //   ],
         // },
