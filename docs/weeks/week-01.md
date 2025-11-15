@@ -6,7 +6,7 @@ sidebar_label: Week 01
 
 ## Week 1 – JavaScript & TypeScript Foundations + DSA (Arrays/Strings)
 
-[← Back to main guide](../intro.md)
+
 
 <!-- Week 1 focuses on JS/TS fundamentals, event loop basics, and starting DSA practice. -->
 
@@ -289,5 +289,3 @@ Global Scope
       - Writes output to another file using async/await.
   - **Extra 1–2 DSA problems (45 min)** focusing on patterns you struggled with.
 
-
-[← Back to main guide](../intro.md) | [Next guide →](week-02.md)

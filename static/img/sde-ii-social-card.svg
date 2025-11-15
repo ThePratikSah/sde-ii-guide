@@ -1,0 +1,88 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e9;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e3f2fd;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Illustration: Code/Backend themed character on the left -->
+  <g transform="translate(80, 120)">
+    <!-- Main body (server/terminal shape) -->
+    <rect x="0" y="60" width="200" height="220" rx="12" fill="#2e7d32" opacity="0.9"/>
+    <rect x="10" y="70" width="180" height="35" rx="4" fill="#1b5e20"/>
+    
+    <!-- Code lines -->
+    <line x1="25" y1="120" x2="175" y2="120" stroke="#81c784" stroke-width="3" stroke-linecap="round"/>
+    <line x1="25" y1="150" x2="155" y2="150" stroke="#81c784" stroke-width="3" stroke-linecap="round"/>
+    <line x1="25" y1="180" x2="165" y2="180" stroke="#81c784" stroke-width="3" stroke-linecap="round"/>
+    <line x1="25" y1="210" x2="135" y2="210" stroke="#81c784" stroke-width="3" stroke-linecap="round"/>
+    <line x1="25" y1="240" x2="145" y2="240" stroke="#81c784" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Terminal prompt indicators -->
+    <circle cx="35" cy="120" r="4" fill="#a5d6a7"/>
+    <circle cx="35" cy="150" r="4" fill="#a5d6a7"/>
+    <circle cx="35" cy="180" r="4" fill="#a5d6a7"/>
+    
+    <!-- Head (monitor/screen) -->
+    <rect x="50" y="0" width="100" height="70" rx="8" fill="#1976d2" opacity="0.9"/>
+    <rect x="60" y="10" width="80" height="50" rx="4" fill="#0d47a1"/>
+    
+    <!-- Screen content (code-like) -->
+    <circle cx="75" cy="28" r="3" fill="#64b5f6"/>
+    <circle cx="90" cy="28" r="3" fill="#64b5f6"/>
+    <circle cx="105" cy="28" r="3" fill="#64b5f6"/>
+    <line x1="70" y1="40" x2="120" y2="40" stroke="#64b5f6" stroke-width="2"/>
+    <line x1="70" y1="50" x2="110" y2="50" stroke="#64b5f6" stroke-width="2"/>
+    
+    <!-- Arms (connecting to document) -->
+    <rect x="200" y="100" width="25" height="10" rx="4" fill="#2e7d32" opacity="0.9"/>
+    <rect x="225" y="95" width="10" height="20" rx="4" fill="#2e7d32" opacity="0.9"/>
+    
+    <!-- Document/Guide being held -->
+    <rect x="235" y="70" width="100" height="140" rx="6" fill="#ffd54f"/>
+    <line x1="250" y1="95" x2="320" y2="95" stroke="#f57f17" stroke-width="2.5"/>
+    <line x1="250" y1="120" x2="320" y2="120" stroke="#f57f17" stroke-width="2.5"/>
+    <line x1="250" y1="145" x2="310" y2="145" stroke="#f57f17" stroke-width="2.5"/>
+    <line x1="250" y1="170" x2="315" y2="170" stroke="#f57f17" stroke-width="2.5"/>
+    <line x1="250" y1="195" x2="305" y2="195" stroke="#f57f17" stroke-width="2.5"/>
+    
+    <!-- Small decorative elements (floating) -->
+    <circle cx="260" cy="50" r="10" fill="#1976d2" opacity="0.5"/>
+    <circle cx="285" cy="45" r="8" fill="#2e7d32" opacity="0.5"/>
+  </g>
+  
+  <!-- Title: SDE-II Guide -->
+  <text x="600" y="220" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#1976d2">
+    <tspan fill="#1976d2">SDE-II</tspan>
+    <tspan fill="#2e7d32" x="600" dy="0"> Guide</tspan>
+  </text>
+  
+  <!-- Tagline line 1 -->
+  <text x="600" y="300" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#212121">
+    A structured, 16-week plan
+  </text>
+  
+  <!-- Tagline line 2 -->
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#212121">
+    to grow from solid 
+    <tspan fill="#2e7d32">SDE-I</tspan>
+    <tspan fill="#212121"> to strong </tspan>
+    <tspan fill="#2e7d32">backend SDE-II</tspan>
+  </text>
+  
+  <!-- Additional info -->
+  <text x="600" y="430" font-family="Arial, sans-serif" font-size="26" fill="#616161">
+    Node.js • System Design • Machine Coding • DSA
+  </text>
+  
+  <!-- URL -->
+  <text x="600" y="510" font-family="Arial, sans-serif" font-size="22" fill="#757575">
+    sde-ii.pratik.dev
+  </text>
+</svg>
+
