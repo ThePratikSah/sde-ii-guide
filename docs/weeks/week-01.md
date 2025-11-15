@@ -25,9 +25,9 @@ Use together with:
 - [Role Understanding](../meta/role-understanding.md)
 - [Skill Gap Template](../meta/skill-gap-template.md)
 - [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [DSA Backend Plan](../roadmap/dsa-backend-plan.md)
-- [Resources](../meta/resources.md)
-- [Schedules & Metrics](../meta/schedules-and-metrics.md)
+- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Resources](../resources/resources.md)
+- [Schedules & Metrics](../roadmap/schedules-and-metrics.md)
 
 ---
 
@@ -64,7 +64,7 @@ Use together with:
     - Array operations (`map`, `filter`, `reduce`).
 
 - **Block 3 (DSA – 60 min)**
-  - From [DSA Backend Plan](../roadmap/dsa-backend-plan.md), Arrays & Strings:
+  - From [DSA Backend Plan](../topic-banks/dsa-backend-plan.md), Arrays & Strings:
     - Solve **2–3 easy** array/string problems (e.g., reverse array, check palindrome, frequency count).
   - Note patterns (frequency counting, two scans).
 
