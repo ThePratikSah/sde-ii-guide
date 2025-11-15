@@ -228,4 +228,3 @@ Use with:
     - Write 1–2 paragraphs comparing ACID in relational DBs vs eventual consistency in distributed systems for a sample use case (e.g., analytics counters vs money transfers).
 
 
- | [Next guide →](week-08.md)

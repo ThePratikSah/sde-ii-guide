@@ -256,4 +256,3 @@ User Service   Order Service   Notification Service
     - Verbally walk through your design as if presenting to an interviewer.
 
 
- | [Next guide →](week-10.md)

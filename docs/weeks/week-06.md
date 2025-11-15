@@ -229,4 +229,3 @@ Use with:
     - Write 1–2 paragraphs: when would you choose MongoDB over a relational DB for a backend service?
 
 
- | [Next guide →](week-07.md)

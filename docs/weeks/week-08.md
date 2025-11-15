@@ -235,4 +235,3 @@ Producer Service ---> Queue (Redis) ---> Worker (Job Processor)
     - Explain your Redis and queue-based designs out loud as if in a system design round.
 
 
- | [Next guide →](week-09.md)

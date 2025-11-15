@@ -286,4 +286,3 @@ Use `week-XX.md` files to pick which days to drop/merge.
 - Schedules & metrics: `schedules-and-metrics.md`.
 
 
- | [Next guide →](../roadmap/schedules-and-metrics.md)

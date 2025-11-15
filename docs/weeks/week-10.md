@@ -256,4 +256,3 @@ Producer Service -> Notification API -> Queue -> Channel Workers -> Providers
     - Compare your mock design to notes and identify 3 improvements (e.g., more focus on failure modes).
 
 
- | [Next guide →](week-11.md)

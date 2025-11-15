@@ -256,4 +256,3 @@ App Services -> Log Ingestor API -> Queue -> Log Processor -> Storage -> Query A
     - Do a timed design of one smaller system (rate limiter or file storage) from scratch using your template.
 
 
- | [Next guide →](week-12.md)

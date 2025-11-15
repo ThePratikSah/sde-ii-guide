@@ -241,4 +241,3 @@ Client -> Logger -> Auth -> Validation -> Controller -> Service -> ...
     - Write 1–2 paragraphs on what you’d change if you had to build this API for production.
 
 
- | [Next guide →](week-06.md)

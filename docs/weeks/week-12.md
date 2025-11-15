@@ -245,4 +245,3 @@ Use with:
     - A simpler machine coding problem (e.g., feature flag service).
 
 
- | [Next guide →](week-13.md)
