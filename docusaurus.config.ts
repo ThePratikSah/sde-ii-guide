@@ -75,10 +75,10 @@ const config: Config = {
     },
     navbar: {
       title: 'SDE-II Guide',
-      logo: {
-        alt: 'SDE-II Guide Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'SDE-II Guide Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {
           type: 'docSidebar',
