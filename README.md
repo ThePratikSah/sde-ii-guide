@@ -1,60 +1,136 @@
-## SDE-II Backend Engineering Preparation Guide
+# SDE-II Backend Preparation Guide (Node.js / TypeScript)
 
-This repository contains a **complete, day-wise preparation plan** to become a highly competent **SDE-II Backend Engineer (Node.js / TypeScript)**.  
-You will find:
+This repository contains a **complete, day-wise preparation plan** to become a highly competent **SDE-II Backend Engineer (Node.js / TypeScript)**, packaged as a Docusaurus site.
 
-- **Role understanding** and expectations in interviews and real teams
-- **Skill gap analysis template** to self-assess
-- A **16-week, day-wise roadmap** (with 8- and 12-week compression options)
-- Deep dives into **TypeScript, Node.js, Databases, Redis, Queues, System Design, Machine Coding, DSA, Theory, Infra/AWS, CI/CD, and debugging**
-- **Production-grade project ideas** and **interview prep playbook**
-- **Daily / weekly schedules**, milestones, and metrics
-- Curated **resources** (videos, blogs, repos, books)
+Use this repo as a **single place** to:
 
-### File Map (Start Here)
+- Understand what an **SDE-II backend engineer** is expected to do.
+- Run a **16-week (or compressed 8/12-week) prep plan** for interviews and real-world backend skills.
+- Track progress through **weekly/day-wise plans, topic banks, and checklists**.
+- Serve this content as a **nice documentation site** (locally or deployed).
+
+> If you just want to study the content, start from `docs/intro.md`.  
+> If you want to contribute or customize the site, see the **Repo Setup** section below.
+
+---
+
+## Who This Guide Is For
+
+- Backend engineers targeting **SDE-II roles**, primarily with **Node.js + TypeScript**.
+- Experienced SDE-I/Junior engineers looking to **level up** and take on more ownership.
+- Developers who want a **structured plan** instead of random leetcode + YouTube grinding.
+
+You should already be comfortable writing basic JavaScript/TypeScript and building small services; this guide helps you reach **SDE-II expectations**.
+
+---
+
+## What’s Inside
+
+The content in `docs/` is the **source of truth** for the guide. Key pieces:
 
 - **Meta & Self-Assessment**
-  - [`meta/role-understanding.md`](meta/role-understanding.md) – What an SDE-II backend engineer is expected to do.
-  - [`meta/skill-gap-template.md`](meta/skill-gap-template.md) – Self-assessment template across all key skills.
+  - `docs/meta/role-understanding.md` – What an SDE-II backend engineer actually does and is evaluated on.
+  - `docs/meta/skill-gap-template.md` – Self-assessment template across all key skills.
 - **Roadmap & Schedules**
-  - [`roadmap/roadmap-16-weeks.md`](roadmap/roadmap-16-weeks.md) – Phase-wise roadmap (JS/TS, Node, DBs, Redis/Queues, System Design, Machine Coding, DSA, Theory).
-  - [`roadmap/schedules-and-metrics.md`](roadmap/schedules-and-metrics.md) – Daily/weekly schedules, milestones, metrics.
+  - `docs/roadmap/roadmap-16-weeks.md` – Phase-wise roadmap (JS/TS, Node, DBs, Redis/Queues, System Design, Machine Coding, DSA, Theory, Infra).
+  - `docs/roadmap/schedules-and-metrics.md` – Daily/weekly schedules, milestones, and metrics.
 - **Weekly Plans**
-  - [`weeks/week-01.md`](weeks/week-01.md) … [`weeks/week-16.md`](weeks/week-16.md) – **Day-wise plan for each week** (4h & 6h variants).
+  - `docs/weeks/week-01.md` … `docs/weeks/week-16.md` – **Day-wise plans** (4h & 6h variants) for the full 16-week track.
 - **Topic Banks & Deep Dives**
-  - [`topic-banks/machine-coding-bank.md`](topic-banks/machine-coding-bank.md) – At least 15 machine coding problems with specs.
-  - [`topic-banks/dsa-backend-plan.md`](topic-banks/dsa-backend-plan.md) – Backend-focused DSA topics and problem plan.
-  - [`topic-banks/theory-round.md`](topic-banks/theory-round.md) – OS, networking, DBMS, CAP/ACID/BASE, consistency models.
-  - [`topic-banks/projects.md`](topic-banks/projects.md) – 5–8 production-ready backend project specs.
+  - `docs/topic-banks/machine-coding-bank.md` – Machine coding problems with specs.
+  - `docs/topic-banks/dsa-backend-plan.md` – Backend-focused DSA plan.
+  - `docs/topic-banks/theory-round.md` – OS, networking, DBMS, CAP/ACID/BASE, consistency models.
+  - `docs/topic-banks/projects.md` – Production-grade backend project ideas.
 - **Interview Prep & Resources**
-  - [`interview/interview-prep-playbook.md`](interview/interview-prep-playbook.md) – Mock interview structure, revision plans, common mistakes.
-  - [`resources/resources.md`](resources/resources.md) – Curated resources for each topic.
+  - `docs/interview/interview-prep-playbook.md` – Mock interview structure, revision plans, common mistakes.
+  - `docs/resources/resources.md` – Curated resources mapped to the roadmap.
 
-For **quick navigation**:
+When this repo is served with Docusaurus, these files become navigable docs pages.
 
-- **Foundations (Weeks 1–3)**: [`weeks/week-01.md`](weeks/week-01.md), [`weeks/week-02.md`](weeks/week-02.md), [`weeks/week-03.md`](weeks/week-03.md) (JS/TS deep dive).
-- **Node.js Backend (Weeks 4–5)**: [`weeks/week-04.md`](weeks/week-04.md), [`weeks/week-05.md`](weeks/week-05.md).
-- **Databases & Redis/Queues (Weeks 6–8)**: [`weeks/week-06.md`](weeks/week-06.md), [`weeks/week-07.md`](weeks/week-07.md), [`weeks/week-08.md`](weeks/week-08.md).
-- **System Design (Weeks 9–11)**: [`weeks/week-09.md`](weeks/week-09.md), [`weeks/week-10.md`](weeks/week-10.md), [`weeks/week-11.md`](weeks/week-11.md).
-- **Machine Coding (Weeks 12–13)**: [`weeks/week-12.md`](weeks/week-12.md), [`weeks/week-13.md`](weeks/week-13.md).
-- **DSA Focus (Weeks 14–15)**: [`weeks/week-14.md`](weeks/week-14.md), [`weeks/week-15.md`](weeks/week-15.md).
-- **Theory & Polishing (Week 16)**: [`weeks/week-16.md`](weeks/week-16.md).
+---
 
-### How to Use This Guide
+## How to Use the Guide
 
-- **Step 1**: Read [`meta/role-understanding.md`](meta/role-understanding.md) and fill [`meta/skill-gap-template.md`](meta/skill-gap-template.md).
-- **Step 2**: Skim [`roadmap/roadmap-16-weeks.md`](roadmap/roadmap-16-weeks.md) to understand the big picture.
-- **Step 3**: Choose a track:
-  - 16 weeks (recommended for deep mastery)
-  - 12 weeks (compress by merging some weeks)
-  - 8 weeks (aggressive, for experienced devs)
-- **Step 4**: Follow the corresponding `weeks/week-XX.md` file **day by day**, using:
-  - [`topic-banks/machine-coding-bank.md`](topic-banks/machine-coding-bank.md), [`topic-banks/dsa-backend-plan.md`](topic-banks/dsa-backend-plan.md), [`topic-banks/theory-round.md`](topic-banks/theory-round.md), and [`topic-banks/projects.md`](topic-banks/projects.md) for exercises
-  - [`resources/resources.md`](resources/resources.md) for videos/blogs/repos
-- **Step 5**: In the last month, focus heavily on:
-  - [`interview/interview-prep-playbook.md`](interview/interview-prep-playbook.md)
-  - Re-doing key problems from [`topic-banks/machine-coding-bank.md`](topic-banks/machine-coding-bank.md) and [`topic-banks/dsa-backend-plan.md`](topic-banks/dsa-backend-plan.md)
+If you are a **learner**:
 
-Each markdown file contains **checklists, examples, ASCII diagrams, tables, and actionable tasks** so you can track your progress like a real project.
+1. **Start at** `docs/intro.md` to understand the big picture and file map.
+2. Read `docs/meta/role-understanding.md` and fill `docs/meta/skill-gap-template.md`.
+3. Skim `docs/roadmap/roadmap-16-weeks.md` and choose a track:
+   - 16 weeks (deep mastery),
+   - 12 weeks (compressed),
+   - 8 weeks (aggressive).
+4. Follow the relevant `docs/weeks/week-XX.md` files **day by day**, using:
+   - `docs/topic-banks/*.md` for problems, projects, and theory,
+   - `docs/resources/resources.md` for videos/blogs/repos.
+5. In the last month before interviews, focus heavily on:
+   - `docs/interview/interview-prep-playbook.md`,
+   - Re-doing key problems from the DSA + machine coding topic banks.
 
+If you are a **contributor**:
+
+1. Set up the repo locally (see **Installation** below).
+2. Edit markdown files under `docs/` (or components under `src/`) as needed.
+3. Run `yarn start` to preview changes.
+
+---
+
+## Repository Structure (High Level)
+
+- `docs/` – All guide content (intro, roadmap, weeks, topic banks, interview prep, resources).
+- `src/` – Docusaurus site source (React components, homepage, CSS).
+- `static/` – Static assets (images, logos, etc.).
+- `docusaurus.config.ts` – Docusaurus configuration (site metadata, navbar, footer).
+- `sidebars.ts` – Sidebar navigation definition for the docs.
+
+You generally don’t need to touch `src/` unless you’re customizing the website’s look & feel or adding custom pages/components.
+
+---
+
+## Repo Setup (Docusaurus)
+
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+
+### Installation
+
+Install dependencies (using Yarn, as this repo is currently configured):
+
+```bash
+yarn
+```
+
+### Local Development
+
+Start a local development server:
+
+```bash
+yarn start
+```
+
+This command starts a local dev server and opens a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+Create a production build of the static site:
+
+```bash
+yarn build
+```
+
+This command generates static content into the `build` directory, which can be served using any static content hosting service.
+
+### Deployment
+
+Using SSH:
+
+```bash
+USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```bash
+GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
