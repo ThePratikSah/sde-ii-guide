@@ -22,12 +22,12 @@ sidebar_label: Week 01
   - Light reading: **what a backend service is**, high-level HTTP overview.
 
 Use together with:
-- `role-understanding.md`
-- `skill-gap-template.md`
-- `roadmap-16-weeks.md`
-- `dsa-backend-plan.md`
-- `resources.md`
-- `schedules-and-metrics.md`
+- [Role Understanding](../meta/role-understanding.md)
+- [Skill Gap Template](../meta/skill-gap-template.md)
+- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
+- [DSA Backend Plan](../roadmap/dsa-backend-plan.md)
+- [Resources](../meta/resources.md)
+- [Schedules & Metrics](../meta/schedules-and-metrics.md)
 
 ---
 
@@ -53,7 +53,7 @@ Use together with:
   - Install **Node.js LTS** and set up a **TypeScript** project:
     - Initialize `package.json`, install `typescript`, `ts-node`, `eslint`, `jest` (optional).
     - Configure `tsconfig.json` with strict mode.
-  - Skim `role-understanding.md` to anchor expectations.
+  - Skim [role-understanding.md](../meta/role-understanding.md) to anchor expectations.
 
 - **Block 2 (JS Basics – 60 min)**
   - Review:
@@ -64,7 +64,7 @@ Use together with:
     - Array operations (`map`, `filter`, `reduce`).
 
 - **Block 3 (DSA – 60 min)**
-  - From `dsa-backend-plan.md`, Arrays & Strings:
+  - From [DSA Backend Plan](../roadmap/dsa-backend-plan.md), Arrays & Strings:
     - Solve **2–3 easy** array/string problems (e.g., reverse array, check palindrome, frequency count).
   - Note patterns (frequency counting, two scans).
 
@@ -72,7 +72,7 @@ Use together with:
   - Write a short note:
     - Tools installed.
     - Any gaps in JS basics.
-  - Update `skill-gap-template.md` (JS/TS section initial rating).
+  - Update [skill gap template](../meta/skill-gap-template.md) (JS/TS section initial rating)
 
 #### 6-Hour Plan
 
@@ -182,7 +182,7 @@ Global Scope
     - Annotating function parameters and return types.
 
 - **Block 4 (Review – 30 min)**
-  - Update `skill-gap-template.md` for TS basics.
+  - Update [skill-gap-template.md](../meta/skill-gap-template.md) for TS basics.
 
 #### 6-Hour Plan
 
@@ -271,13 +271,13 @@ Global Scope
 - **Block 3 (Review & DSA – 60 min)**
   - Solve 2–3 DSA problems (review your weakest from the week).
   - Revisit notes & update:
-    - `skill-gap-template.md` JS/TS & Async sections.
+    - [skill-gap template](../meta/skill-gap-template.md) JS/TS & Async sections
 
 - **Block 4 (Planning – 30 min)**
   - Summarize:
     - 3 biggest JS/TS learnings.
     - Weakest subtopics (to revisit in Week 2).
-  - Skim `week-02.md` to preview next week.
+  - Skim [week-02](./week-02.md) to preview next week.
 
 #### 6-Hour Plan
 

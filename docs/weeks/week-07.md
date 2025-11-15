@@ -13,11 +13,11 @@
 - **DSA**
   - Trees basics (BFS/DFS), continue arrays/strings review.
 - **Theory**
-  - Deepen DBMS knowledge: ACID, CAP (via `theory-round.md`).
+  - Deepen DBMS knowledge: ACID, CAP (via [theory-round.md](../topic-banks/theory-round.md)).
 
 Use with:
-- `roadmap-16-weeks.md`
-- `theory-round.md`
+- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
+- [Theory Round](../topic-banks/theory-round.md)
 
 ---
 
@@ -210,10 +210,10 @@ Use with:
   - Revisit:
     - MySQL basics, joins, transactions.
     - N+1 detection and fixes.
-  - Update `skill-gap-template.md` (MySQL, DB basics).
+  - Update [skill gap template](../meta/skill-gap-template.md) (MySQL, DB basics).
 
 - **Block 2 (Theory – 60 min)**
-  - From `theory-round.md`:
+  - From [theory-round.md](../topic-banks/theory-round.md):
     - Read CAP theorem and consistency models.
   - Reflect on:
     - Where your apps can tolerate eventual consistency vs require strong consistency.

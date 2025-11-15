@@ -22,8 +22,8 @@
   - Practice explaining design choices out loud.
 
 Use with:
-- `machine-coding-bank.md`
-- `interview-prep-playbook.md`
+- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
+- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
 
 ---
 
@@ -46,7 +46,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Design – 60–75 min)**
-  - From `machine-coding-bank.md` (In-memory DB):
+  - From [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) (In-memory DB):
     - API: `insert`, `find`, `update`, `delete`.
   - Classes:
     - `DocumentStore`, `Collection`.
@@ -73,7 +73,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Design – 60–75 min)**
-  - From `machine-coding-bank.md` (Pub/Sub):
+  - From [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) (Pub/Sub):
     - API: `subscribe`, `unsubscribe`, `publish`.
   - Class:
     - `PubSub` with topic → handlers map.
@@ -100,7 +100,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Design – 60–75 min)**
-  - From `machine-coding-bank.md` (Notification Service):
+  - From [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) (Notification Service):
     - Channels: in-app + email stub.
     - Use patterns:
       - Strategy or Factory for channels.
@@ -132,7 +132,7 @@ Use with:
   - Pick one:
     - URL shortener.
     - Task scheduler (delayed jobs).
-  - Use `machine-coding-bank.md` specification.
+  - Use [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) specification.
 
 - **Block 2 (Implementation – 60–75 min)**
   - Implement core logic and simple interface/CLI.
@@ -207,7 +207,7 @@ Use with:
   - Summarize:
     - Patterns used.
     - Gaps in your machine coding approach.
-  - Update `skill-gap-template.md` (machine coding ability).
+  - Update [skill gap template](../meta/skill-gap-template.md) (machine coding ability).
 
 - **Block 2 (Portfolio Integration – 60–75 min)**
   - Decide:

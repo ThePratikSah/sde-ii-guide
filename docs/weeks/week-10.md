@@ -10,16 +10,16 @@
   - Design an **Uber/Swiggy-like** system at a high level.
   - Design a **notification system** with multiple channels and retries.
 - **Backend Practice**
-  - Tie designs back to your `projects.md` notification and SaaS projects.
+  - Tie designs back to your [projects.md](../topic-banks/projects.md) notification and SaaS projects.
 - **DSA**
   - Continue mixed problems (graphs become more relevant here).
 - **Theory**
   - Apply CAP, consistency, and eventual consistency ideas to these systems.
 
 Use with:
-- `roadmap-16-weeks.md`
-- `projects.md`
-- `theory-round.md`
+- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
+- [Projects](../topic-banks/projects.md)
+- [Theory Round](../topic-banks/theory-round.md)
 
 ---
 
@@ -182,7 +182,7 @@ Producer Service -> Notification API -> Queue -> Channel Workers -> Providers
 #### 4-Hour Plan
 
 - **Block 1 (Theory Integration – 60–75 min)**
-  - From `theory-round.md`:
+  - From [theory-round.md](../topic-banks/theory-round.md):
     - Revisit CAP, ACID vs BASE, consistency models.
   - Apply to:
     - Uber/Swiggy (location data, trips).
@@ -224,7 +224,7 @@ Producer Service -> Notification API -> Queue -> Channel Workers -> Providers
   - 2–3 problems.
 
 - **Block 4 (Review – 30 min)**
-  - Update `projects.md` notes with these mapping insights.
+  - Update [projects.md](../topic-banks/projects.md) notes with these mapping insights.
 
 #### 6-Hour Plan
 
@@ -240,7 +240,7 @@ Producer Service -> Notification API -> Queue -> Channel Workers -> Providers
 
 - **Block 1 (Review – 60–75 min)**
   - Revisit your Uber/Swiggy and notification designs.
-  - Update `skill-gap-template.md` (system design intuition).
+  - Update [skill gap template](../meta/skill-gap-template.md) (system design intuition).
 
 - **Block 2 (Timed Design Mock – 60–75 min)**
   - Time-box:

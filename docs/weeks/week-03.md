@@ -16,9 +16,9 @@
   - Light intro to **OS basics**: process vs thread (conceptual).
 
 Use with:
-- `roadmap-16-weeks.md`
-- `dsa-backend-plan.md`
-- `theory-round.md`
+- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
+- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Theory Round](../topic-banks/theory-round.md)
 
 ---
 
@@ -219,8 +219,8 @@ Use with:
 
 - **Block 3 (Review & Prep – 45–60 min)**
   - Update:
-    - `skill-gap-template.md` JS/TS and async sections.
-  - Skim `week-04.md` to preview Node.js backend phase.
+    - [skill gap template](../meta/skill-gap-template.md) JS/TS and async sections.
+  - Skim [week-04](./week-04.md) to preview Node.js backend phase.
 
 #### 6-Hour Plan
 

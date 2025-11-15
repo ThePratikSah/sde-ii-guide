@@ -11,17 +11,17 @@
   - Design **scalable REST APIs** for realistic services.
   - Understand **service boundaries**, API gateways, and basic load balancing concepts.
 - **Backend Practice**
-  - Map system designs back to your Node.js projects (from `projects.md`).
+  - Map system designs back to your Node.js projects (from [projects.md](../topic-banks/projects.md)).
 - **DSA**
   - Maintain 2–3 problems/day (mixed).
 - **Theory**
   - Tie HTTP, networking, and DB concepts into system design decisions.
 
 Use with:
-- `roadmap-16-weeks.md`
-- `projects.md`
-- `theory-round.md`
-- `interview-prep-playbook.md`
+- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
+- [Projects](../topic-banks/projects.md)
+- [Theory Round](../topic-banks/theory-round.md)
+- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
 
 ---
 
@@ -129,7 +129,7 @@ User Service   Order Service   Notification Service
   - 2–3 mixed problems.
 
 - **Block 4 (Review – 30 min)**
-  - Identify potential service boundaries in one of your projects (from `projects.md`).
+  - Identify potential service boundaries in one of your projects (from [projects.md](../topic-banks/projects.md)).
 
 #### 6-Hour Plan
 
@@ -209,7 +209,7 @@ User Service   Order Service   Notification Service
 #### 4-Hour Plan
 
 - **Block 1 (Mapping – 60–75 min)**
-  - Pick one project from `projects.md` (e.g., URL shortener or SaaS backend).
+  - Pick one project from [projects.md](../topic-banks/projects.md) (e.g., URL shortener or SaaS backend).
   - Map:
     - System design components → actual modules/services you’d implement.
 

@@ -16,9 +16,9 @@
   - Light networking: HTTP methods, status codes, request/response lifecycle.
 
 Use with:
-- `roadmap-16-weeks.md`
-- `dsa-backend-plan.md`
-- `resources.md`
+- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
+- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Resources](../resources/resources.md)
 
 ---
 
@@ -223,7 +223,7 @@ Call Stack  <---->  Event Loop  <---->  Task Queue (macrotasks)
   - Revisit notes on:
     - Event loop.
     - TS unions, intersections, discriminated unions.
-  - Update `skill-gap-template.md` (TS advanced, async).
+  - Update [skill gap template](../meta/skill-gap-template.md) (TS advanced, async).
 
 - **Block 2 (Networking Theory – 60 min)**
   - Read about:
@@ -237,7 +237,7 @@ Call Stack  <---->  Event Loop  <---->  Task Queue (macrotasks)
 - **Block 4 (Planning – 30 min)**
   - Write a short summary:
     - What about JS/TS is still confusing?
-  - Skim `week-03.md` for upcoming topics (streams, more async).
+  - Skim [week-03](./week-03.md) for upcoming topics (streams, more async).
 
 #### 6-Hour Plan
 

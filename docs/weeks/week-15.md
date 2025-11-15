@@ -16,8 +16,8 @@
   - Emphasize clean communication and explaining trade-offs.
 
 Use with:
-- `dsa-backend-plan.md`
-- `interview-prep-playbook.md`
+- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
 
 ---
 
@@ -207,8 +207,8 @@ Use with:
     - Correctness.
 
 - **Block 3 (Planning – 30–45 min)**
-  - Skim `week-16.md` for final revision focus.
-  - Update `dsa-backend-plan.md` and pattern cheat sheet.
+  - Skim [week-16](./week-16.md) for final revision focus.
+  - Update [dsa-backend-plan.md](../topic-banks/dsa-backend-plan.md) and pattern cheat sheet.
 
 #### 6-Hour Plan
 

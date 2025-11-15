@@ -16,8 +16,8 @@
   - Deeper HTTP concepts: headers, status codes, idempotency.
 
 Use with:
-- `roadmap-16-weeks.md`
-- `projects.md` (start backend for a small service, e.g., URL shortener)
+- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
+- [Projects](../topic-banks/projects.md) (start backend for a small service, e.g., URL shortener)
 
 ---
 
