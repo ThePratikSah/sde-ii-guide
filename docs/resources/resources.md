@@ -42,6 +42,10 @@ sidebar_position: 1
   - Guides on structuring large Node/TS backends (layered architecture).
   - JWT vs sessions, refresh tokens, and secure auth flows.
 
+- **Structured Courses / Topic Roadmaps**
+  - [ProCodrr – Backend with Node](https://procodrr.com/nodejs/) – topic-by-topic foundation for backend with Node.js, from basics to real-world apps.
+  - [ProCodrr – Advanced Backend with Node](https://procodrr.com/advanced-nodejs/) – advanced Node.js topics: child processes, clustering, MongoDB performance, compression, multithreading, crypto, WebSockets, and more.
+
 - **Repos**
   - Example Node/TS clean architecture repos.
   - Express/Fastify boilerplates with tests and Docker.
