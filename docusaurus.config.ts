@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'SDE-II Guide by Pratik Sah',
+  title: 'Pteparation Guide for SDE',
   tagline: 'A structured, 16-week plan to grow from solid SDE-I to a strong backend SDE-II.',
   favicon: 'img/favicon.ico',
 
