@@ -145,7 +145,8 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `No rights reserved. Update this guide as you go along | ${new Date().getFullYear()} Pratik Sah. Built with Docusaurus.`,
+      // You can use HTML inside the copyright string in Docusaurus:
+      copyright: `No rights reserved. Update this guide as you go along - ${new Date().getFullYear()} | <a href="https://madewithloveinindia.org" target="_blank">Made with <span aria-label="Love" style="color: #f43f5e">&hearts;</span> in India</a>`,
     },
     prism: {
       theme: prismThemes.github,
