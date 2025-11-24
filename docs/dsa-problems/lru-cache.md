@@ -29,53 +29,76 @@ The functions `get` and `put` must each run in $O(1)$ average time complexity.
         - If key new: Create node, add to head, add to map.
         - If capacity full: Remove tail node, remove from map.
 
-## Code Snippet (Python)
+## Code Snippet (TypeScript)
 
-```python
-class Node:
-    def __init__(self, key, val):
-        self.key = key
-        self.val = val
-        self.prev = None
-        self.next = None
+```typescript
+class Node {
+  key: number;
+  val: number;
+  prev: Node | null = null;
+  next: Node | null = null;
 
-class LRUCache:
-    def __init__(self, capacity: int):
-        self.cap = capacity
-        self.cache = {} # key -> Node
-        # Dummy head and tail
-        self.head = Node(0, 0)
-        self.tail = Node(0, 0)
-        self.head.next = self.tail
-        self.tail.prev = self.head
+  constructor(key: number, val: number) {
+    this.key = key;
+    this.val = val;
+  }
+}
 
-    def remove(self, node):
-        prev, nxt = node.prev, node.next
-        prev.next = nxt
-        nxt.prev = prev
+class LRUCache {
+  private capacity: number;
+  private cache: Map<number, Node>;
+  private head: Node;
+  private tail: Node;
 
-    def insert(self, node):
-        prev, nxt = self.head, self.head.next
-        prev.next = node
-        nxt.prev = node
-        node.prev = prev
-        node.next = nxt
+  constructor(capacity: number) {
+    this.capacity = capacity;
+    this.cache = new Map();
+    // Dummy head and tail
+    this.head = new Node(0, 0);
+    this.tail = new Node(0, 0);
+    this.head.next = this.tail;
+    this.tail.prev = this.head;
+  }
 
-    def get(self, key: int) -> int:
-        if key in self.cache:
-            self.remove(self.cache[key])
-            self.insert(self.cache[key])
-            return self.cache[key].val
-        return -1
+  private remove(node: Node): void {
+    const prev = node.prev!;
+    const next = node.next!;
+    prev.next = next;
+    next.prev = prev;
+  }
 
-    def put(self, key: int, value: int) -> None:
-        if key in self.cache:
-            self.remove(self.cache[key])
-        self.cache[key] = Node(key, value)
-        self.insert(self.cache[key])
-        
-        if len(self.cache) > self.cap:
-            lru = self.tail.prev
-            self.remove(lru)
-            del self.cache[lru.key]
+  private insert(node: Node): void {
+    const prev = this.head;
+    const next = this.head.next!;
+    prev.next = node;
+    next.prev = node;
+    node.prev = prev;
+    node.next = next;
+  }
+
+  get(key: number): number {
+    if (this.cache.has(key)) {
+      const node = this.cache.get(key)!;
+      this.remove(node);
+      this.insert(node);
+      return node.val;
+    }
+    return -1;
+  }
+
+  put(key: number, value: number): void {
+    if (this.cache.has(key)) {
+      this.remove(this.cache.get(key)!);
+    }
+    const newNode = new Node(key, value);
+    this.cache.set(key, newNode);
+    this.insert(newNode);
+
+    if (this.cache.size > this.capacity) {
+      const lru = this.tail.prev!;
+      this.remove(lru);
+      this.cache.delete(lru.key);
+    }
+  }
+}
 ```

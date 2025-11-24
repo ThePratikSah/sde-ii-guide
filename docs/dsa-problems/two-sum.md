@@ -31,16 +31,18 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 - **Time Complexity**: $O(n)$
 - **Space Complexity**: $O(n)$
 
-## Code Snippet (Python)
+## Code Snippet (TypeScript)
 
-```python
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in seen:
-                return [seen[complement], i]
-            seen[num] = i
-        return []
+```typescript
+function twoSum(nums: number[], target: number): number[] {
+  const seen = new Map<number, number>();
+  for (let i = 0; i < nums.length; i++) {
+    const complement = target - nums[i];
+    if (seen.has(complement)) {
+      return [seen.get(complement)!, i];
+    }
+    seen.set(nums[i], i);
+  }
+  return [];
+}
 ```

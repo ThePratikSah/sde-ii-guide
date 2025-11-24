@@ -25,17 +25,25 @@ Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
 - **Time Complexity**: $O(n \log n)$ due to sorting.
 - **Space Complexity**: $O(n)$ for the output.
 
-## Code Snippet (Python)
+## Code Snippet (TypeScript)
 
-```python
-class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        intervals.sort(key=lambda x: x[0])
-        merged = []
-        for interval in intervals:
-            if not merged or merged[-1][1] < interval[0]:
-                merged.append(interval)
-            else:
-                merged[-1][1] = max(merged[-1][1], interval[1])
-        return merged
+```typescript
+function merge(intervals: number[][]): number[][] {
+  if (intervals.length === 0) return [];
+  
+  // Sort by start time
+  intervals.sort((a, b) => a[0] - b[0]);
+  
+  const merged: number[][] = [];
+  
+  for (const interval of intervals) {
+    if (merged.length === 0 || merged[merged.length - 1][1] < interval[0]) {
+      merged.push(interval);
+    } else {
+      merged[merged.length - 1][1] = Math.max(merged[merged.length - 1][1], interval[1]);
+    }
+  }
+  
+  return merged;
+}
 ```
