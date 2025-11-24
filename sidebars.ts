@@ -58,6 +58,7 @@ const sidebars: SidebarsConfig = {
         'topic-banks/projects',
         'interview/interview-prep-playbook',
         'resources/resources',
+        'resources/go-resources',
       ],
     },
     {

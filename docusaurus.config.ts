@@ -86,7 +86,7 @@ const config: Config = {
           position: 'left',
           label: 'Guide',
         },
-        { to: '/docs/weeks/week-01', label: 'Weekly Plans', position: 'left' },
+        { to: '/docs/category/week-01', label: 'Weekly Plans', position: 'left' },
         {
           href: 'https://github.com/ThePratikSah/sde-ii-guide',
           label: 'GitHub',
