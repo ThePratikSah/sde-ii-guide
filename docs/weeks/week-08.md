@@ -218,7 +218,7 @@ Producer Service ---> Queue (Redis) ---> Worker (Job Processor)
 
 - **Block 1 (Review – 60–75 min)**
   - Revisit Redis basics, caching, rate limiting, and queues.
-  - Update [skill gap template](../meta/skill-gap-template.md) (Redis, queues).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (Redis, queues).
 
 - **Block 2 (System Design – 60 min)**
   - Design on paper:

@@ -1,5 +1,5 @@
 ---
-id: theory-round
+
 title: Theory Round Preparation
 sidebar_position: 3
 ---

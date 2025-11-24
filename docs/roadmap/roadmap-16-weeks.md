@@ -1,5 +1,5 @@
 ---
-id: roadmap-16-weeks
+
 title: 16-Week Backend SDE-II Preparation Roadmap (Node.js / TypeScript)
 sidebar_position: 1
 ---

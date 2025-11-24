@@ -208,7 +208,7 @@ Use with:
   - Summarize:
     - Patterns used.
     - Gaps in your machine coding approach.
-  - Update [skill gap template](../meta/skill-gap-template.md) (machine coding ability).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (machine coding ability).
 
 - **Block 2 (Portfolio Integration – 60–75 min)**
   - Decide:

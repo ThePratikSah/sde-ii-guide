@@ -207,7 +207,7 @@ Use with:
   - 2–3 problems (any pattern).
 
 - **Block 4 (Review – 30 min)**
-  - Update [skill gap template](../meta/skill-gap-template.md) (machine coding ability).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (machine coding ability).
 
 #### 6-Hour Plan
 

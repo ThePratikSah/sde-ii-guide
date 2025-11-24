@@ -1,5 +1,5 @@
 ---
-id: role-understanding
+
 title: SDE-II Backend Engineer – Role Understanding
 sidebar_position: 1
 ---

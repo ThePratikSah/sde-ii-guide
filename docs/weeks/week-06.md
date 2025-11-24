@@ -213,7 +213,7 @@ Use with:
 - **Block 1 (Review – 60–75 min)**
   - Revisit:
     - CRUD, indexing, schema design, aggregation.
-  - Update [skill gap template](../meta/skill-gap-template.md) (MongoDB, DB basics).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (MongoDB, DB basics).
 
 - **Block 2 (Theory – 60 min)**
   - From [theory-round.md](../topic-banks/theory-round.md):

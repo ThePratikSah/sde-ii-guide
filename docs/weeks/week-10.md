@@ -241,7 +241,7 @@ Producer Service -> Notification API -> Queue -> Channel Workers -> Providers
 
 - **Block 1 (Review – 60–75 min)**
   - Revisit your Uber/Swiggy and notification designs.
-  - Update [skill gap template](../meta/skill-gap-template.md) (system design intuition).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (system design intuition).
 
 - **Block 2 (Timed Design Mock – 60–75 min)**
   - Time-box:

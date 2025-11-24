@@ -211,7 +211,7 @@ Use with:
   - Revisit:
     - MySQL basics, joins, transactions.
     - N+1 detection and fixes.
-  - Update [skill gap template](../meta/skill-gap-template.md) (MySQL, DB basics).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (MySQL, DB basics).
 
 - **Block 2 (Theory – 60 min)**
   - From [theory-round.md](../topic-banks/theory-round.md):

@@ -29,8 +29,8 @@ You should already be comfortable writing basic JavaScript/TypeScript and buildi
 The content in `docs/` is the **source of truth** for the guide. Key pieces:
 
 - **Meta & Self-Assessment**
-  - `docs/meta/role-understanding.md` – What an SDE-II backend engineer actually does and is evaluated on.
-  - `docs/meta/skill-gap-template.md` – Self-assessment template across all key skills.
+  - `docs/getting-started/role-understanding.md` – What an SDE-II backend engineer actually does and is evaluated on.
+  - `docs/getting-started/skill-gap-template.md` – Self-assessment template across all key skills.
 - **Roadmap & Schedules**
   - `docs/roadmap/roadmap-16-weeks.md` – Phase-wise roadmap (JS/TS, Node, DBs, Redis/Queues, System Design, Machine Coding, DSA, Theory, Infra).
   - `docs/roadmap/schedules-and-metrics.md` – Daily/weekly schedules, milestones, and metrics.
@@ -54,7 +54,7 @@ When this repo is served with Docusaurus, these files become navigable docs page
 If you are a **learner**:
 
 1. **Start at** `docs/intro.md` to understand the big picture and file map.
-2. Read `docs/meta/role-understanding.md` and fill `docs/meta/skill-gap-template.md`.
+2. Read `docs/getting-started/role-understanding.md` and fill `docs/getting-started/skill-gap-template.md`.
 3. Skim `docs/roadmap/roadmap-16-weeks.md` and choose a track:
    - 16 weeks (deep mastery),
    - 12 weeks (compressed),

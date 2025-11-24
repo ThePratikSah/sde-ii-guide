@@ -1,5 +1,5 @@
 ---
-id: skill-gap-template
+
 title: Skill Gap Analysis Template – SDE-II Backend (Node.js/TypeScript)
 sidebar_position: 2
 ---

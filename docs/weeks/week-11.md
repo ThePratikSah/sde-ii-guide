@@ -198,7 +198,7 @@ App Services -> Log Ingestor API -> Queue -> Log Processor -> Storage -> Query A
   - 2–3 mixed problems.
 
 - **Block 4 (Review – 30 min)**
-  - Update [skill gap template](../meta/skill-gap-template.md) (design patterns familiarity).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (design patterns familiarity).
 
 #### 6-Hour Plan
 
@@ -241,7 +241,7 @@ App Services -> Log Ingestor API -> Queue -> Log Processor -> Storage -> Query A
 - **Block 1 (Review – 60–75 min)**
   - Review:
     - All systems designed in Weeks 9–11.
-  - Update [skill gap template](../meta/skill-gap-template.md) (system design intuition, LLD).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (system design intuition, LLD).
 
 - **Block 2 (Reflection – 60 min)**
   - Write:

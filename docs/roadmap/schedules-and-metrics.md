@@ -1,5 +1,5 @@
 ---
-id: schedules-and-metrics
+
 title: Daily & Weekly Schedules, Milestones, and Metrics
 sidebar_position: 2
 ---

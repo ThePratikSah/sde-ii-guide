@@ -224,7 +224,7 @@ Call Stack  <---->  Event Loop  <---->  Task Queue (macrotasks)
   - Revisit notes on:
     - Event loop.
     - TS unions, intersections, discriminated unions.
-  - Update [skill gap template](../meta/skill-gap-template.md) (TS advanced, async).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (TS advanced, async).
 
 - **Block 2 (Networking Theory – 60 min)**
   - Read about:

@@ -220,7 +220,7 @@ Use with:
 
 - **Block 3 (Review & Prep – 45–60 min)**
   - Update:
-    - [skill gap template](../meta/skill-gap-template.md) JS/TS and async sections.
+    - [skill gap template](../getting-started/skill-gap-template.md) JS/TS and async sections.
   - Skim [week-04](./week-04.md) to preview Node.js backend phase.
 
 #### 6-Hour Plan

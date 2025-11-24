@@ -18,8 +18,8 @@ You will find:
 ### File Map (Start Here)
 
 - **Meta & Self-Assessment**
-  - [`meta/role-understanding.md`](meta/role-understanding.md) – What an SDE-II backend engineer is expected to do.
-  - [`meta/skill-gap-template.md`](meta/skill-gap-template.md) – Self-assessment template across all key skills.
+  - [`getting-started/role-understanding.md`](getting-started/role-understanding.md) – What an SDE-II backend engineer is expected to do.
+  - [`getting-started/skill-gap-template.md`](getting-started/skill-gap-template.md) – Self-assessment template across all key skills.
 - **Roadmap & Schedules**
   - [`roadmap/roadmap-16-weeks.md`](roadmap/roadmap-16-weeks.md) – Phase-wise roadmap (JS/TS, Node, DBs, Redis/Queues, System Design, Machine Coding, DSA, Theory).
   - [`roadmap/schedules-and-metrics.md`](roadmap/schedules-and-metrics.md) – Daily/weekly schedules, milestones, metrics.
@@ -46,7 +46,7 @@ For **quick navigation**:
 
 ### How to Use This Guide
 
-- **Step 1**: Read [`meta/role-understanding.md`](meta/role-understanding.md) and fill [`meta/skill-gap-template.md`](meta/skill-gap-template.md).
+- **Step 1**: Read [`getting-started/role-understanding.md`](getting-started/role-understanding.md) and fill [`getting-started/skill-gap-template.md`](getting-started/skill-gap-template.md).
 - **Step 2**: Skim [`roadmap/roadmap-16-weeks.md`](roadmap/roadmap-16-weeks.md) to understand the big picture.
 - **Step 3**: Choose a track:
   - 16 weeks (recommended for deep mastery)

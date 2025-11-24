@@ -106,7 +106,7 @@ const config: Config = {
             },
             {
               label: 'Role Understanding',
-              to: '/docs/meta/role-understanding',
+              to: '/docs/getting-started/role-understanding',
             },
             {
               label: 'Weekly Plans',

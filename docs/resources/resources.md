@@ -1,5 +1,5 @@
 ---
-id: resources
+
 title: Curated Resources – Backend SDE-II (Node.js / TypeScript)
 sidebar_position: 1
 ---

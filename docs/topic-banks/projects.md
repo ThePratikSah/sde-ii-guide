@@ -1,5 +1,5 @@
 ---
-id: projects
+
 title: Backend Projects
 sidebar_position: 4
 ---

@@ -1,5 +1,5 @@
 ---
-id: machine-coding-bank
+
 title: Machine Coding Problem Bank
 sidebar_position: 1
 ---

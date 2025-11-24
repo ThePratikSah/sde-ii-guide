@@ -224,7 +224,7 @@ Client -> Logger -> Auth -> Validation -> Controller -> Service -> ...
   - Revisit:
     - Your auth implementation.
     - Logging and rate limiting.
-  - Update [skill gap template](../meta/skill-gap-template.md) (Node fundamentals, async, security basics).
+  - Update [skill gap template](../getting-started/skill-gap-template.md) (Node fundamentals, async, security basics).
 
 - **Block 2 (Mock Q&A – 60 min)**
   - Practice answering:

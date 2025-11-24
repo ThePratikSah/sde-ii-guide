@@ -1,5 +1,5 @@
 ---
-id: dsa-backend-plan
+
 title: DSA Plan for Backend Interviews
 sidebar_position: 2
 ---
