@@ -31,7 +31,13 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 - **Time Complexity**: $O(n)$
 - **Space Complexity**: $O(n)$
 
-## Code Snippet (TypeScript)
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+## Code Snippet
+
+<Tabs>
+<TabItem value="ts" label="TypeScript">
 
 ```typescript
 function twoSum(nums: number[], target: number): number[] {
@@ -46,3 +52,23 @@ function twoSum(nums: number[], target: number): number[] {
   return [];
 }
 ```
+
+</TabItem>
+<TabItem value="go" label="Go">
+
+```go
+func twoSum(nums []int, target int) []int {
+    seen := make(map[int]int)
+    for i, num := range nums {
+        complement := target - num
+        if idx, ok := seen[complement]; ok {
+            return []int{idx, i}
+        }
+        seen[num] = i
+    }
+    return nil
+}
+```
+
+</TabItem>
+</Tabs>

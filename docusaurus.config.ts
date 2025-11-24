@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Preparation Guide for SDE',
-  tagline: 'A structured, 16-week plan to grow from solid SDE-I to a strong backend SDE-II.',
+  tagline: 'A structured, language-agnostic 16-week plan to grow from solid SDE-I to a strong backend SDE-II.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -86,7 +86,7 @@ const config: Config = {
           position: 'left',
           label: 'Guide',
         },
-        { to: '/docs/weeks/week-01', label: 'Weekly Plans', position: 'left' },
+        { to: '/docs/category/week-01', label: 'Weekly Plans', position: 'left' },
         {
           href: 'https://github.com/ThePratikSah/sde-ii-guide',
           label: 'GitHub',

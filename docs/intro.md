@@ -4,7 +4,7 @@ title: SDE-II Backend Engineering Preparation Guide
 sidebar_position: 1
 ---
 
-This repository contains a **complete, day-wise preparation plan** to become a highly competent **SDE-II Backend Engineer (Node.js / TypeScript)**.  
+This repository contains a **complete, day-wise preparation plan** to become a highly competent **SDE-II Backend Engineer**. While the guide is **language-agnostic**, we provide reference implementations in **Node.js (TypeScript)** and **Go (Golang)**.  
 You will find:
 
 - **Role understanding** and expectations in interviews and real teams
