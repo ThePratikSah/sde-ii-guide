@@ -14,12 +14,12 @@ sidebar_position: 1
 - **DSA**
   - Continue with linked lists, queues/stacks; maintain 2–3 problems/day.
 - **Theory**
-  - Start reading on **process vs thread**, concurrency basics ([theory-round.md](../topic-banks/theory-round.md)).
+  - Start reading on **process vs thread**, concurrency basics ([theory-round.md](../../topic-banks/theory-round.md)).
 
 Use with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Projects](../topic-banks/projects.md) (extend your chosen API)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Projects](../../topic-banks/projects.md) (extend your chosen API)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
 
 ---
 
@@ -224,7 +224,7 @@ Client -> Logger -> Auth -> Validation -> Controller -> Service -> ...
   - Revisit:
     - Your auth implementation.
     - Logging and rate limiting.
-  - Update [skill gap template](../getting-started/skill-gap-template.md) (Node fundamentals, async, security basics).
+  - Update [skill gap template](../../getting-started/skill-gap-template.md) (Node fundamentals, async, security basics).
 
 - **Block 2 (Mock Q&A – 60 min)**
   - Practice answering:

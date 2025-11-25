@@ -25,11 +25,11 @@ sidebar_position: 2
   - Follow interview prep playbook for mocks and revision.
 
 Use together with:
-- [Theory Round](../topic-banks/theory-round.md)
-- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
-- [Schedules & Metrics](../roadmap/schedules-and-metrics.md)
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Theory Round](../../topic-banks/theory-round.md)
+- [Interview Prep Playbook](../../interview/interview-prep-playbook.md)
+- [Schedules & Metrics](../../roadmap/schedules-and-metrics.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
 
 ---
 

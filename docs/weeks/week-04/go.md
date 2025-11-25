@@ -17,8 +17,8 @@ sidebar_position: 2
   - Deeper HTTP concepts: headers, status codes, idempotency.
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Projects](../topic-banks/projects.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Projects](../../topic-banks/projects.md)
 
 ---
 

@@ -24,7 +24,7 @@ You will find:
   - [`roadmap/roadmap-16-weeks.md`](roadmap/roadmap-16-weeks.md) – Phase-wise roadmap (JS/TS, Node, DBs, Redis/Queues, System Design, Machine Coding, DSA, Theory).
   - [`roadmap/schedules-and-metrics.md`](roadmap/schedules-and-metrics.md) – Daily/weekly schedules, milestones, metrics.
 - **Weekly Plans**
-  - [`weeks/week-01.md`](weeks/week-01.md) … [`weeks/week-16.md`](weeks/week-16.md) – **Day-wise plan for each week** (4h & 6h variants).
+  - Week 01 through Week 16 – **Day-wise plan for each week** (4h & 6h variants). Each week has both [Node.js](weeks/week-01/node) and [Go](weeks/week-01/go) tracks.
 - **Topic Banks & Deep Dives**
   - [`topic-banks/machine-coding-bank.md`](topic-banks/machine-coding-bank.md) – At least 15 machine coding problems with specs.
   - [`topic-banks/dsa-backend-plan.md`](topic-banks/dsa-backend-plan.md) – Backend-focused DSA topics and problem plan.
@@ -36,13 +36,13 @@ You will find:
 
 For **quick navigation**:
 
-- **Foundations (Weeks 1–3)**: [`weeks/week-01.md`](weeks/week-01.md), [`weeks/week-02.md`](weeks/week-02.md), [`weeks/week-03.md`](weeks/week-03.md) (JS/TS deep dive).
-- **Node.js Backend (Weeks 4–5)**: [`weeks/week-04.md`](weeks/week-04.md), [`weeks/week-05.md`](weeks/week-05.md).
-- **Databases & Redis/Queues (Weeks 6–8)**: [`weeks/week-06.md`](weeks/week-06.md), [`weeks/week-07.md`](weeks/week-07.md), [`weeks/week-08.md`](weeks/week-08.md).
-- **System Design (Weeks 9–11)**: [`weeks/week-09.md`](weeks/week-09.md), [`weeks/week-10.md`](weeks/week-10.md), [`weeks/week-11.md`](weeks/week-11.md).
-- **Machine Coding (Weeks 12–13)**: [`weeks/week-12.md`](weeks/week-12.md), [`weeks/week-13.md`](weeks/week-13.md).
-- **DSA Focus (Weeks 14–15)**: [`weeks/week-14.md`](weeks/week-14.md), [`weeks/week-15.md`](weeks/week-15.md).
-- **Theory & Polishing (Week 16)**: [`weeks/week-16.md`](weeks/week-16.md).
+- **Foundations (Weeks 1–3)**: [Week 01](weeks/week-01/node), [Week 02](weeks/week-02/node), [Week 03](weeks/week-03/node) (JS/TS deep dive).
+- **Node.js Backend (Weeks 4–5)**: [Week 04](weeks/week-04/node), [Week 05](weeks/week-05/node).
+- **Databases & Redis/Queues (Weeks 6–8)**: [Week 06](weeks/week-06/node), [Week 07](weeks/week-07/node), [Week 08](weeks/week-08/node).
+- **System Design (Weeks 9–11)**: [Week 09](weeks/week-09/node), [Week 10](weeks/week-10/node), [Week 11](weeks/week-11/node).
+- **Machine Coding (Weeks 12–13)**: [Week 12](weeks/week-12/node), [Week 13](weeks/week-13/node).
+- **DSA Focus (Weeks 14–15)**: [Week 14](weeks/week-14/node), [Week 15](weeks/week-15/node).
+- **Theory & Polishing (Week 16)**: [Week 16](weeks/week-16/node).
 
 ### How to Use This Guide
 
@@ -52,7 +52,7 @@ For **quick navigation**:
   - 16 weeks (recommended for deep mastery)
   - 12 weeks (compress by merging some weeks)
   - 8 weeks (aggressive, for experienced devs)
-- **Step 4**: Follow the corresponding `weeks/week-XX.md` file **day by day**, using:
+- **Step 4**: Follow the corresponding weekly plan files **day by day**, using:
   - [`topic-banks/machine-coding-bank.md`](topic-banks/machine-coding-bank.md), [`topic-banks/dsa-backend-plan.md`](topic-banks/dsa-backend-plan.md), [`topic-banks/theory-round.md`](topic-banks/theory-round.md), and [`topic-banks/projects.md`](topic-banks/projects.md) for exercises
   - [`resources/resources.md`](resources/resources.md) for videos/blogs/repos
 - **Step 5**: In the last month, focus heavily on:

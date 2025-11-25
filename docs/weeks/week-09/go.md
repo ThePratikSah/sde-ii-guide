@@ -19,9 +19,9 @@ sidebar_position: 2
   - Tie HTTP, networking, DB concepts into system design.
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Projects](../topic-banks/projects.md)
-- [Theory Round](../topic-banks/theory-round.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Projects](../../topic-banks/projects.md)
+- [Theory Round](../../topic-banks/theory-round.md)
 
 ---
 

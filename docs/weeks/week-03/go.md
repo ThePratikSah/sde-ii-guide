@@ -17,9 +17,9 @@ sidebar_position: 2
   - OS basics: process vs thread (conceptual).
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
-- [Theory Round](../topic-banks/theory-round.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
+- [Theory Round](../../topic-banks/theory-round.md)
 
 ---
 
@@ -218,7 +218,7 @@ Use together with:
 
 - **Block 3 (Review & Prep – 45–60 min)**
   - Update skill gap template.
-  - Skim [week-04](./week-04.md).
+  - Skim [week-04](../week-04/go).
 
 #### 6-Hour Plan
 

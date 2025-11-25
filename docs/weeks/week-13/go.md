@@ -20,8 +20,8 @@ sidebar_position: 2
   - Practice explaining design choices.
 
 Use together with:
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
-- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md)
+- [Interview Prep Playbook](../../interview/interview-prep-playbook.md)
 
 ---
 

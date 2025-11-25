@@ -23,9 +23,9 @@ sidebar_position: 1
   - Focus on **communication** and **time management** during problem solving.
 
 Use with:
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
-- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md)
+- [Interview Prep Playbook](../../interview/interview-prep-playbook.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
 
 ---
 
@@ -56,7 +56,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Requirements & Design – 60–75 min)**
-  - Use [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) (Parking Lot):
+  - Use [machine-coding-bank.md](../../topic-banks/machine-coding-bank.md) (Parking Lot):
     - Clarify features (levels, vehicle types, pricing).
     - Draw class diagram:
       - `ParkingLot`, `Level`, `Slot`, `Vehicle`, `Ticket`, `PricingStrategy`.
@@ -108,7 +108,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Requirements & Design – 60–75 min)**
-  - From [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) (Splitwise):
+  - From [machine-coding-bank.md](../../topic-banks/machine-coding-bank.md) (Splitwise):
     - Clarify supported split types.
     - Classes:
       - `User`, `Expense`, `Split`, `BalanceSheet`.
@@ -136,7 +136,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Design – 60–75 min)**
-  - From [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) (Cache):
+  - From [machine-coding-bank.md](../../topic-banks/machine-coding-bank.md) (Cache):
     - APIs: `set`, `get`, `delete`.
     - Features: TTL, LRU eviction.
   - Design:
@@ -164,7 +164,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Design – 60–75 min)**
-  - From [machine-coding-bank.md](../topic-banks/machine-coding-bank.md) (Token Bucket Rate Limiter):
+  - From [machine-coding-bank.md](../../topic-banks/machine-coding-bank.md) (Token Bucket Rate Limiter):
     - Define interface:
       - `isAllowed(key: string): boolean`.
     - Decide algorithm: token bucket or sliding window.
@@ -207,7 +207,7 @@ Use with:
   - 2–3 problems (any pattern).
 
 - **Block 4 (Review – 30 min)**
-  - Update [skill gap template](../getting-started/skill-gap-template.md) (machine coding ability).
+  - Update [skill gap template](../../getting-started/skill-gap-template.md) (machine coding ability).
 
 #### 6-Hour Plan
 

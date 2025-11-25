@@ -23,9 +23,9 @@ sidebar_position: 2
   - Focus on **communication** and **time management**.
 
 Use together with:
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
-- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md)
+- [Interview Prep Playbook](../../interview/interview-prep-playbook.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
 
 ---
 

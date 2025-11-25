@@ -18,9 +18,9 @@ sidebar_position: 2
   - Caching trade-offs and eventual consistency.
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Projects](../topic-banks/projects.md)
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Projects](../../topic-banks/projects.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md)
 
 ---
 

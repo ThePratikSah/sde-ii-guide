@@ -17,11 +17,11 @@ sidebar_position: 2
   - **Goroutines** and **Channels** basics.
 
 Use together with:
-- [Role Understanding](../getting-started/role-understanding.md)
-- [Skill Gap Template](../getting-started/skill-gap-template.md)
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
-- [Resources](../resources/resources.md)
+- [Role Understanding](../../getting-started/role-understanding.md)
+- [Skill Gap Template](../../getting-started/skill-gap-template.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
+- [Resources](../../resources/resources.md)
 
 ---
 
@@ -47,7 +47,7 @@ Use together with:
   - Install **Go** (latest stable) and set up VS Code (Go extension).
   - Initialize a project: `go mod init github.com/username/learning-go`.
   - Learn: `package main`, `import`, `func main()`.
-  - Skim [role-understanding.md](../getting-started/role-understanding.md).
+  - Skim [role-understanding.md](../../getting-started/role-understanding.md).
 
 - **Block 2 (Go Basics – 60 min)**
   - Review:
@@ -58,7 +58,7 @@ Use together with:
     - FizzBuzz, simple calculator.
 
 - **Block 3 (DSA – 60 min)**
-  - From [DSA Backend Plan](../topic-banks/dsa-backend-plan.md), Arrays & Strings:
+  - From [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md), Arrays & Strings:
     - Solve **2–3 easy** problems in Go.
     - Focus on Go's strict typing and lack of concise functional helpers (like `map/filter` in JS) - write loops explicitly.
 
@@ -66,7 +66,7 @@ Use together with:
   - Write a short note:
     - Go workspace structure.
     - Differences from JS (static typing, compilation).
-  - Update [skill gap template](../getting-started/skill-gap-template.md).
+  - Update [skill gap template](../../getting-started/skill-gap-template.md).
 
 #### 6-Hour Plan
 
@@ -163,7 +163,7 @@ Use together with:
   - Solve 2–3 problems focusing on **Slice tricks** (e.g., deleting an element, filtering).
 
 - **Block 4 (Review – 30 min)**
-  - Update [skill-gap-template.md](../getting-started/skill-gap-template.md).
+  - Update [skill-gap-template.md](../../getting-started/skill-gap-template.md).
 
 #### 6-Hour Plan
 
@@ -257,7 +257,7 @@ Use together with:
   - Summarize:
     - 3 biggest Go learnings.
     - Weakest subtopics.
-  - Skim [week-02](./week-02.md).
+  - Skim [week-02](../week-02/go).
 
 #### 6-Hour Plan
 

@@ -20,9 +20,9 @@ sidebar_position: 2
   - Capture LLD diagrams/code skeletons for machine coding.
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
-- [Projects](../topic-banks/projects.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md)
+- [Projects](../../topic-banks/projects.md)
 
 ---
 

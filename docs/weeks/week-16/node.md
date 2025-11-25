@@ -22,14 +22,14 @@ sidebar_position: 1
     - Key system designs.
     - Machine coding patterns.
 - **Interview Polishing**
-  - Follow [interview-prep-playbook.md](../interview/interview-prep-playbook.md) for mocks and revision.
+  - Follow [interview-prep-playbook.md](../../interview/interview-prep-playbook.md) for mocks and revision.
 
 Use with:
-- [Theory Round](../topic-banks/theory-round.md)
-- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
-- [Schedules & Metrics](../roadmap/schedules-and-metrics.md)
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [Theory Round](../../topic-banks/theory-round.md)
+- [Interview Prep Playbook](../../interview/interview-prep-playbook.md)
+- [Schedules & Metrics](../../roadmap/schedules-and-metrics.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
 
 ---
 
@@ -52,7 +52,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Theory – 60–75 min)**
-  - From [theory-round.md](../topic-banks/theory-round.md):
+  - From [theory-round.md](../../topic-banks/theory-round.md):
     - Processes vs threads.
     - Context switching.
     - Scheduling basics.
@@ -82,7 +82,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Theory – 60–75 min)**
-  - From [theory-round.md](../topic-banks/theory-round.md):
+  - From [theory-round.md](../../topic-banks/theory-round.md):
     - TCP vs UDP.
     - HTTP basics.
     - DNS resolution.
@@ -113,7 +113,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Theory – 60–75 min)**
-  - Revisit from [theory-round.md](../topic-banks/theory-round.md):
+  - Revisit from [theory-round.md](../../topic-banks/theory-round.md):
     - Indexing concepts.
     - Normalization (1NF–3NF).
     - ACID properties.
@@ -143,7 +143,7 @@ Use with:
 #### 4-Hour Plan
 
 - **Block 1 (Theory – 60–75 min)**
-  - From [theory-round.md](../topic-banks/theory-round.md):
+  - From [theory-round.md](../../topic-banks/theory-round.md):
     - CAP theorem.
     - Strong vs eventual consistency.
     - BASE vs ACID.
@@ -241,7 +241,7 @@ Use with:
   - One full design (e.g., notification service or URL shortener) using your template.
 
 - **Block 3 (Mock Behavioral + Review – 45–60 min)**
-  - Use [interview-prep-playbook.md](../interview/interview-prep-playbook.md):
+  - Use [interview-prep-playbook.md](../../interview/interview-prep-playbook.md):
     - Practice behavioral questions (ownership, failures, conflict).
   - Final review of weak notes.
 
