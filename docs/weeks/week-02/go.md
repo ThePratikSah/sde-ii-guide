@@ -18,9 +18,9 @@ sidebar_position: 2
   - Build a CLI tool using standard library.
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
-- [Resources](../resources/resources.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
+- [Resources](../../resources/resources.md)
 
 ---
 
@@ -230,7 +230,7 @@ Use together with:
 - **Block 1 (Review – 60 min)**
   - Revisit notes on:
     - Scheduler, Error handling, Interfaces.
-  - Update [skill gap template](../getting-started/skill-gap-template.md).
+  - Update [skill gap template](../../getting-started/skill-gap-template.md).
 
 - **Block 2 (Networking Theory – 60 min)**
   - Read about:
@@ -242,7 +242,7 @@ Use together with:
     - Focus on Two Pointers.
 
 - **Block 4 (Planning – 30 min)**
-  - Skim [week-03](./week-03.md).
+  - Skim [week-03](../week-03/go).
 
 #### 6-Hour Plan
 

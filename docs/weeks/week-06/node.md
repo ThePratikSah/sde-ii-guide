@@ -14,12 +14,12 @@ sidebar_position: 1
 - **DSA**
   - Practice arrays/strings, sliding window, and some tree basics.
 - **Theory**
-  - Start reading DBMS concepts: normalization, indexes ([theory-round.md](../topic-banks/theory-round.md)).
+  - Start reading DBMS concepts: normalization, indexes ([theory-round.md](../../topic-banks/theory-round.md)).
 
 Use with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Projects](../topic-banks/projects.md)
-- [Theory Round](../topic-banks/theory-round.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Projects](../../topic-banks/projects.md)
+- [Theory Round](../../topic-banks/theory-round.md)
 
 ---
 
@@ -213,10 +213,10 @@ Use with:
 - **Block 1 (Review – 60–75 min)**
   - Revisit:
     - CRUD, indexing, schema design, aggregation.
-  - Update [skill gap template](../getting-started/skill-gap-template.md) (MongoDB, DB basics).
+  - Update [skill gap template](../../getting-started/skill-gap-template.md) (MongoDB, DB basics).
 
 - **Block 2 (Theory – 60 min)**
-  - From [theory-round.md](../topic-banks/theory-round.md):
+  - From [theory-round.md](../../topic-banks/theory-round.md):
     - Read about normalization, ACID, indexing in relational DBs.
   - Compare with Mongo concepts.
 

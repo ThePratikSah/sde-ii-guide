@@ -17,9 +17,9 @@ sidebar_position: 2
   - Process vs thread, concurrency basics.
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Projects](../topic-banks/projects.md)
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Projects](../../topic-banks/projects.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
 
 ---
 

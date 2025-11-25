@@ -18,9 +18,9 @@ sidebar_position: 1
   - Understand trade-offs of caching and eventual consistency.
 
 Use with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Projects](../topic-banks/projects.md)
-- [Machine Coding Bank](../topic-banks/machine-coding-bank.md) (rate limiter, cache problems)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Projects](../../topic-banks/projects.md)
+- [Machine Coding Bank](../../topic-banks/machine-coding-bank.md) (rate limiter, cache problems)
 
 ---
 
@@ -218,7 +218,7 @@ Producer Service ---> Queue (Redis) ---> Worker (Job Processor)
 
 - **Block 1 (Review – 60–75 min)**
   - Revisit Redis basics, caching, rate limiting, and queues.
-  - Update [skill gap template](../getting-started/skill-gap-template.md) (Redis, queues).
+  - Update [skill gap template](../../getting-started/skill-gap-template.md) (Redis, queues).
 
 - **Block 2 (System Design – 60 min)**
   - Design on paper:

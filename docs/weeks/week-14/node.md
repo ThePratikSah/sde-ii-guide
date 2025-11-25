@@ -19,8 +19,8 @@ sidebar_position: 1
   - Practice timed problem solving and communication.
 
 Use with:
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
-- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
+- [Interview Prep Playbook](../../interview/interview-prep-playbook.md)
 
 ---
 
@@ -164,7 +164,7 @@ Use with:
   - Note which pattern you recognized quickly vs slowly.
 
 - **Block 4 (Light Backend – 30 min)**
-  - 10–15 min: skim [interview-prep-playbook.md](../interview/interview-prep-playbook.md) coding tips.
+  - 10–15 min: skim [interview-prep-playbook.md](../../interview/interview-prep-playbook.md) coding tips.
 
 #### 6-Hour Plan
 
@@ -204,7 +204,7 @@ Use with:
 
 - **Block 1 (Review – 60–75 min)**
   - Count how many problems solved this week by category.
-  - Update [dsa-backend-plan.md](../topic-banks/dsa-backend-plan.md) personal notes.
+  - Update [dsa-backend-plan.md](../../topic-banks/dsa-backend-plan.md) personal notes.
 
 - **Block 2 (Pattern Cheat Sheet – 60–75 min)**
   - Create:
@@ -212,7 +212,7 @@ Use with:
     - Include template snippets and bullet points per pattern.
 
 - **Block 3 (Planning – 30–45 min)**
-  - Skim [week-15](./week-15.md) (Trees/Graphs/Heaps focus).
+  - Skim [week-15](../week-15/node) (Trees/Graphs/Heaps focus).
 
 #### 6-Hour Plan
 

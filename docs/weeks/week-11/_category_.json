@@ -2,6 +2,7 @@
   "label": "Week 11",
   "position": 11,
   "link": {
-    "type": "generated-index"
+    "type": "doc",
+    "id": "weeks/week-11/node"
   }
 }

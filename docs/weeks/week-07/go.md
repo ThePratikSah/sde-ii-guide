@@ -17,8 +17,8 @@ sidebar_position: 2
   - ACID, CAP theorem.
 
 Use together with:
-- [16-Week Roadmap](../roadmap/roadmap-16-weeks.md)
-- [Theory Round](../topic-banks/theory-round.md)
+- [16-Week Roadmap](../../roadmap/roadmap-16-weeks.md)
+- [Theory Round](../../topic-banks/theory-round.md)
 
 ---
 

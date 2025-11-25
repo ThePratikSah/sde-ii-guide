@@ -17,8 +17,8 @@ sidebar_position: 2
   - Emphasize clean communication and trade-offs.
 
 Use together with:
-- [DSA Backend Plan](../topic-banks/dsa-backend-plan.md)
-- [Interview Prep Playbook](../interview/interview-prep-playbook.md)
+- [DSA Backend Plan](../../topic-banks/dsa-backend-plan.md)
+- [Interview Prep Playbook](../../interview/interview-prep-playbook.md)
 
 ---
 
